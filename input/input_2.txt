@@ -1,0 +1,12 @@
+##----Input File-----
+##Format of data:
+##	SOURCE_NODE_NAME|SOURCE_NODE_AMOUNT, DEST_NODE_NAME|DEST_NODE_AMOUNT, COST
+##
+
+1|25, 2|0, 8
+1|25, 3|25, 6
+2|0, 4|-30, 5
+2|0, 5|-20, 7
+3|25, 4|-30, 6
+3|25, 5|-20, 3
+4|-30, 5|-20, 4
